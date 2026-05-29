@@ -132,7 +132,7 @@ export default function App() {
       </header>
 
       {/* Main Content Container */}
-      <main className="flex-grow px-8 md:px-20 flex flex-col justify-center max-w-7xl">
+      <main className="flex-grow pl-8 pr-24 md:px-20 flex flex-col justify-center max-w-7xl">
         <motion.div
            initial={{ opacity: 0, x: -20 }}
            animate={{ opacity: 1, x: 0 }}
