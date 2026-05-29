@@ -1,0 +1,6 @@
+{
+  "name": "OTIS Mongolia",
+  "description": "Вэбсайт шинэчлэгдэж байна (Under Construction page)",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
